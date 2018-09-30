@@ -12,6 +12,8 @@ namespace WebApplication1
         protected void Page_Load(object sender, EventArgs e)
         {
             int i = 111111111;
+
+            int ddd = 1;
         }
     }
 }
